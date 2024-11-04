@@ -1,0 +1,5 @@
+[Version]
+DriverVer=8/20/2020,4.6.1.0
+PackageType=2024
+ExecuteName=Setup.exe
+SoftwareUpdate=1

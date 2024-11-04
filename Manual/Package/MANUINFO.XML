@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ManualInfo>
+  <Version>1.00</Version>
+  <DeviceID>L3210 Series</DeviceID>
+  <DriverName>EPSON L3210 Series</DriverName>
+  <DefalutLanguage>EN</DefalutLanguage>
+  <Languages>EN,SC,TC</Languages>
+  <SupportManuals>
+    <SupportManual>
+      <ManualType>useg</ManualType>
+      <FileName>manual.pdf</FileName>
+    </SupportManual>
+  </SupportManuals>
+</ManualInfo>
